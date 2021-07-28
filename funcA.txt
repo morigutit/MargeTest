@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 B
+=======
+A
+AA
+>>>>>>> fanctionA
